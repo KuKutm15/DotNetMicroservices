@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\KTRATHUCHANH\\DotNetMicroservices\\PricingService\\PricingService.csproj",
-      "projectName": "PricingService",
-      "projectPath": "E:\\KTRATHUCHANH\\DotNetMicroservices\\PricingService\\PricingService.csproj",
+      "projectUniqueName": "E:\\KTRATHUCHANH\\DotNetMicroservices\\PricingService\\PricingService.IntegrationTest.csproj",
+      "projectName": "PricingService.IntegrationTest",
+      "projectPath": "E:\\KTRATHUCHANH\\DotNetMicroservices\\PricingService\\PricingService.IntegrationTest.csproj",
       "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
       "outputPath": "E:\\KTRATHUCHANH\\DotNetMicroservices\\PricingService\\obj\\",
       "projectStyle": "PackageReference",

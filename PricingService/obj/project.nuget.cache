@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LiU4z7sCg/k=",
+  "dgSpecHash": "hj28S7I4bSU=",
   "success": true,
-  "projectFilePath": "E:\\KTRATHUCHANH\\DotNetMicroservices\\PricingService\\PricingService.csproj",
+  "projectFilePath": "E:\\KTRATHUCHANH\\DotNetMicroservices\\PricingService\\PricingService.IntegrationTest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
