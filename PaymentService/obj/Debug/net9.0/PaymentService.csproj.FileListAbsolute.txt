@@ -1,0 +1,12 @@
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\bin\Debug\net9.0\PaymentService.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\bin\Debug\net9.0\PaymentService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\bin\Debug\net9.0\PaymentService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\obj\Debug\net9.0\PaymentService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\obj\Debug\net9.0\PaymentService.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\obj\Debug\net9.0\PaymentService.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\obj\Debug\net9.0\PaymentService.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\obj\Debug\net9.0\PaymentService.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\obj\Debug\net9.0\PaymentService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\obj\Debug\net9.0\refint\PaymentService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\obj\Debug\net9.0\PaymentService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService\obj\Debug\net9.0\ref\PaymentService.dll

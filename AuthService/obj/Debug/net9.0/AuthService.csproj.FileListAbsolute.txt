@@ -1,0 +1,12 @@
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net9.0\AuthService.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net9.0\AuthService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net9.0\AuthService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\refint\AuthService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\ref\AuthService.dll

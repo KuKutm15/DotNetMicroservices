@@ -1,0 +1,12 @@
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\bin\Debug\net9.0\ProductService.Test.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\bin\Debug\net9.0\ProductService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\bin\Debug\net9.0\ProductService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\obj\Debug\net9.0\ProductService.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\obj\Debug\net9.0\ProductService.Test.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\obj\Debug\net9.0\ProductService.Test.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\obj\Debug\net9.0\ProductService.Test.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\obj\Debug\net9.0\ProductService.Test.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\obj\Debug\net9.0\ProductService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\obj\Debug\net9.0\refint\ProductService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\obj\Debug\net9.0\ProductService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Test\obj\Debug\net9.0\ref\ProductService.Test.dll

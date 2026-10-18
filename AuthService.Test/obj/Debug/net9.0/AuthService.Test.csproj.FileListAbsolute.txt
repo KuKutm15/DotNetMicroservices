@@ -1,0 +1,12 @@
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\bin\Debug\net9.0\AuthService.Test.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\bin\Debug\net9.0\AuthService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\bin\Debug\net9.0\AuthService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\obj\Debug\net9.0\AuthService.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\obj\Debug\net9.0\AuthService.Test.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\obj\Debug\net9.0\AuthService.Test.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\obj\Debug\net9.0\AuthService.Test.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\obj\Debug\net9.0\AuthService.Test.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\obj\Debug\net9.0\AuthService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\obj\Debug\net9.0\refint\AuthService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\obj\Debug\net9.0\AuthService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Test\obj\Debug\net9.0\ref\AuthService.Test.dll

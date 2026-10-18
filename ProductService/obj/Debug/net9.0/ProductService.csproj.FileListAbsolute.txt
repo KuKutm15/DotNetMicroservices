@@ -1,0 +1,12 @@
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\bin\Debug\net9.0\ProductService.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\bin\Debug\net9.0\ProductService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\bin\Debug\net9.0\ProductService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\obj\Debug\net9.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\obj\Debug\net9.0\ProductService.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\obj\Debug\net9.0\ProductService.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\obj\Debug\net9.0\ProductService.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\obj\Debug\net9.0\ProductService.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\obj\Debug\net9.0\ProductService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\obj\Debug\net9.0\refint\ProductService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\obj\Debug\net9.0\ProductService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService\obj\Debug\net9.0\ref\ProductService.dll

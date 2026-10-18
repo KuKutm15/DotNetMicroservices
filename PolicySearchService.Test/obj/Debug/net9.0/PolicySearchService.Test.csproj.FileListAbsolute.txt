@@ -1,0 +1,12 @@
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\bin\Debug\net9.0\PolicySearchService.Test.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\bin\Debug\net9.0\PolicySearchService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\bin\Debug\net9.0\PolicySearchService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\obj\Debug\net9.0\PolicySearchService.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\obj\Debug\net9.0\PolicySearchService.Test.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\obj\Debug\net9.0\PolicySearchService.Test.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\obj\Debug\net9.0\PolicySearchService.Test.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\obj\Debug\net9.0\PolicySearchService.Test.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\obj\Debug\net9.0\PolicySearchService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\obj\Debug\net9.0\refint\PolicySearchService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\obj\Debug\net9.0\PolicySearchService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService.Test\obj\Debug\net9.0\ref\PolicySearchService.Test.dll

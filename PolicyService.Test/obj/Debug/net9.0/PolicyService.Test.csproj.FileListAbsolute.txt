@@ -1,0 +1,12 @@
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\bin\Debug\net9.0\PolicyService.Test.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\bin\Debug\net9.0\PolicyService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\bin\Debug\net9.0\PolicyService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net9.0\PolicyService.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net9.0\PolicyService.Test.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net9.0\PolicyService.Test.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net9.0\PolicyService.Test.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net9.0\PolicyService.Test.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net9.0\PolicyService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net9.0\refint\PolicyService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net9.0\PolicyService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net9.0\ref\PolicyService.Test.dll

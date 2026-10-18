@@ -3,28 +3,11 @@
   "WorkspaceRootPath": "E:\\KTRATHUCHANH\\DotNetMicroservices\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2B089EB5-98A0-4314-96FF-3E902BC4A8D7}|DocumentService.Test\\DocumentService.Test.csproj|e:\\ktrathuchanh\\dotnetmicroservices\\documentservice.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2B089EB5-98A0-4314-96FF-3E902BC4A8D7}|DocumentService.Test\\DocumentService.Test.csproj|solutionrelative:documentservice.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5F6288D9-4AAB-68E2-EE64-FD75B17D7140}|..\\..\\Downloads\\AgentPortalApiGateway\\AgentPortalApiGateway\\AgentPortalApiGateway.csproj|e:\\downloads\\agentportalapigateway\\agentportalapigateway\\agentportalapigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0628A037-4DB9-4BFC-AEF3-E5C19ED94E75}|DocumentService\\DocumentService.csproj|e:\\ktrathuchanh\\dotnetmicroservices\\documentservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0628A037-4DB9-4BFC-AEF3-E5C19ED94E75}|DocumentService\\DocumentService.csproj|solutionrelative:documentservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{28ABDBA0-40CF-4228-8363-622EAA6CABBE}|DocumentService.Api\\DocumentService.Api.csproj|e:\\ktrathuchanh\\dotnetmicroservices\\documentservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{28ABDBA0-40CF-4228-8363-622EAA6CABBE}|DocumentService.Api\\DocumentService.Api.csproj|solutionrelative:documentservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84F7BFDC-7D8F-45FF-8CB1-4A0E36D1DC0E}|ChatService.Test\\ChatService.Test.csproj|e:\\ktrathuchanh\\dotnetmicroservices\\chatservice.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84F7BFDC-7D8F-45FF-8CB1-4A0E36D1DC0E}|ChatService.Test\\ChatService.Test.csproj|solutionrelative:chatservice.test\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0ECF5144-1120-44C8-A508-2A566DFB2057}|ChatService\\ChatService.csproj|e:\\ktrathuchanh\\dotnetmicroservices\\chatservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0ECF5144-1120-44C8-A508-2A566DFB2057}|ChatService\\ChatService.csproj|solutionrelative:chatservice\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BCAAF7A5-FFA5-4E44-99E7-8B999E43491E}|ChatService.Api\\ChatService.Api.csproj|e:\\ktrathuchanh\\dotnetmicroservices\\chatservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCAAF7A5-FFA5-4E44-99E7-8B999E43491E}|ChatService.Api\\ChatService.Api.csproj|solutionrelative:chatservice.api\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8E7A1AC-9304-4BCC-8581-ABCBD99E8B1C}|PaymentService.Api\\PaymentService.Api.csproj|e:\\ktrathuchanh\\dotnetmicroservices\\paymentservice.api\\paymentservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8E7A1AC-9304-4BCC-8581-ABCBD99E8B1C}|PaymentService.Api\\PaymentService.Api.csproj|solutionrelative:paymentservice.api\\paymentservice.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,92 +17,36 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\KTRATHUCHANH\\DotNetMicroservices\\DocumentService.Test\\Class1.cs",
-              "RelativeDocumentMoniker": "DocumentService.Test\\Class1.cs",
-              "ToolTip": "E:\\KTRATHUCHANH\\DotNetMicroservices\\DocumentService.Test\\Class1.cs",
-              "RelativeToolTip": "DocumentService.Test\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T08:14:26.68Z",
+              "Title": "AgentPortalApiGateway",
+              "DocumentMoniker": "E:\\Downloads\\AgentPortalApiGateway\\AgentPortalApiGateway\\AgentPortalApiGateway.csproj",
+              "RelativeDocumentMoniker": "..\\..\\Downloads\\AgentPortalApiGateway\\AgentPortalApiGateway\\AgentPortalApiGateway.csproj",
+              "ToolTip": "E:\\Downloads\\AgentPortalApiGateway\\AgentPortalApiGateway\\AgentPortalApiGateway.csproj",
+              "RelativeToolTip": "..\\..\\Downloads\\AgentPortalApiGateway\\AgentPortalApiGateway\\AgentPortalApiGateway.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-18T08:22:27.384Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\KTRATHUCHANH\\DotNetMicroservices\\DocumentService\\Class1.cs",
-              "RelativeDocumentMoniker": "DocumentService\\Class1.cs",
-              "ToolTip": "E:\\KTRATHUCHANH\\DotNetMicroservices\\DocumentService\\Class1.cs",
-              "RelativeToolTip": "DocumentService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T08:14:18.817Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\KTRATHUCHANH\\DotNetMicroservices\\DocumentService.Api\\Class1.cs",
-              "RelativeDocumentMoniker": "DocumentService.Api\\Class1.cs",
-              "ToolTip": "E:\\KTRATHUCHANH\\DotNetMicroservices\\DocumentService.Api\\Class1.cs",
-              "RelativeToolTip": "DocumentService.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T08:14:05.944Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\KTRATHUCHANH\\DotNetMicroservices\\ChatService.Test\\Class1.cs",
-              "RelativeDocumentMoniker": "ChatService.Test\\Class1.cs",
-              "ToolTip": "E:\\KTRATHUCHANH\\DotNetMicroservices\\ChatService.Test\\Class1.cs",
-              "RelativeToolTip": "ChatService.Test\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T08:13:41.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\KTRATHUCHANH\\DotNetMicroservices\\ChatService\\Class1.cs",
-              "RelativeDocumentMoniker": "ChatService\\Class1.cs",
-              "ToolTip": "E:\\KTRATHUCHANH\\DotNetMicroservices\\ChatService\\Class1.cs",
-              "RelativeToolTip": "ChatService\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T08:13:30.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "E:\\KTRATHUCHANH\\DotNetMicroservices\\ChatService.Api\\Class1.cs",
-              "RelativeDocumentMoniker": "ChatService.Api\\Class1.cs",
-              "ToolTip": "E:\\KTRATHUCHANH\\DotNetMicroservices\\ChatService.Api\\Class1.cs",
-              "RelativeToolTip": "ChatService.Api\\Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-11T08:13:22.741Z",
+              "Title": "PaymentService.Api.csproj",
+              "DocumentMoniker": "E:\\KTRATHUCHANH\\DotNetMicroservices\\PaymentService.Api\\PaymentService.Api.csproj",
+              "RelativeDocumentMoniker": "PaymentService.Api\\PaymentService.Api.csproj",
+              "ToolTip": "E:\\KTRATHUCHANH\\DotNetMicroservices\\PaymentService.Api\\PaymentService.Api.csproj",
+              "RelativeToolTip": "PaymentService.Api\\PaymentService.Api.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-11T08:53:27.141Z",
               "EditorCaption": ""
             }
           ]

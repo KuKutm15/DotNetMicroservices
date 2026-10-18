@@ -1,0 +1,12 @@
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\bin\Debug\net9.0\ChatService.Test.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\bin\Debug\net9.0\ChatService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\bin\Debug\net9.0\ChatService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\obj\Debug\net9.0\ChatService.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\obj\Debug\net9.0\ChatService.Test.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\obj\Debug\net9.0\ChatService.Test.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\obj\Debug\net9.0\ChatService.Test.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\obj\Debug\net9.0\ChatService.Test.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\obj\Debug\net9.0\ChatService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\obj\Debug\net9.0\refint\ChatService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\obj\Debug\net9.0\ChatService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService.Test\obj\Debug\net9.0\ref\ChatService.Test.dll

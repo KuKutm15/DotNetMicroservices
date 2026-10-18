@@ -1,0 +1,12 @@
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\bin\Debug\net9.0\PricingService.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\bin\Debug\net9.0\PricingService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\bin\Debug\net9.0\PricingService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\refint\PricingService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\ref\PricingService.dll

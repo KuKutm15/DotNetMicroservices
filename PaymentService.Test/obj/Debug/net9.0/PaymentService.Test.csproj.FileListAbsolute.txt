@@ -1,0 +1,12 @@
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\bin\Debug\net9.0\PaymentService.Test.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\bin\Debug\net9.0\PaymentService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\bin\Debug\net9.0\PaymentService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\obj\Debug\net9.0\PaymentService.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\obj\Debug\net9.0\PaymentService.Test.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\obj\Debug\net9.0\PaymentService.Test.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\obj\Debug\net9.0\PaymentService.Test.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\obj\Debug\net9.0\PaymentService.Test.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\obj\Debug\net9.0\PaymentService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\obj\Debug\net9.0\refint\PaymentService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\obj\Debug\net9.0\PaymentService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PaymentService.Test\obj\Debug\net9.0\ref\PaymentService.Test.dll
