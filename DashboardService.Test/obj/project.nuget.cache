@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "U8kZcTPYfWs=",
+  "success": false,
+  "projectFilePath": "E:\\KTRATHUCHANH\\DotNetMicroservices\\DashboardService.Test\\DashboardService.Test.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1104",
+      "level": "Error",
+      "message": "Unable to find project 'E:\\KTRATHUCHANH\\DotNetMicroservices\\DashboardService.Api\\DashboardService.Api.csproj'. Check that the project reference is valid and that the project file exists.",
+      "projectPath": "E:\\KTRATHUCHANH\\DotNetMicroservices\\DashboardService.Test\\DashboardService.Test.csproj",
+      "filePath": "E:\\KTRATHUCHANH\\DotNetMicroservices\\DashboardService.Test\\DashboardService.Test.csproj",
+      "libraryId": "E:\\KTRATHUCHANH\\DotNetMicroservices\\DashboardService.Api\\DashboardService.Api.csproj",
+      "targetGraphs": [
+        "net8.0"
+      ]
+    }
+  ]
+}

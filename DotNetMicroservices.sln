@@ -51,59 +51,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentService", "Document
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DocumentService.Test", "DocumentService.Test\DocumentService.Test.csproj", "{2B089EB5-98A0-4314-96FF-3E902BC4A8D7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentPortalApiGateway", "..\..\Downloads\AgentPortalApiGateway\AgentPortalApiGateway\AgentPortalApiGateway.csproj", "{5F6288D9-4AAB-68E2-EE64-FD75B17D7140}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardService", "DashboardService\DashboardService.csproj", "{1118A6E2-128C-4802-830B-7046FC1AC24A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmClient", "..\..\Downloads\BlazorWasmClient\BlazorWasmClient\BlazorWasmClient.csproj", "{78065E2D-2C4D-AB5C-A207-97721BC8EF0C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardService.Api", "ClassLibrary1\DashboardService.Api.csproj", "{57A606F2-37F2-446A-B427-ABFAD4BDB22F}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "eureka-server", "eureka-server", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\Downloads\eureka-server\eureka-server\build.gradle = ..\..\Downloads\eureka-server\eureka-server\build.gradle
-		..\..\Downloads\eureka-server\eureka-server\Dockerfile = ..\..\Downloads\eureka-server\eureka-server\Dockerfile
-		..\..\Downloads\eureka-server\eureka-server\gradle\wrapper\gradle-wrapper.jar = ..\..\Downloads\eureka-server\eureka-server\gradle\wrapper\gradle-wrapper.jar
-		..\..\Downloads\eureka-server\eureka-server\gradlew = ..\..\Downloads\eureka-server\eureka-server\gradlew
-		..\..\Downloads\eureka-server\eureka-server\gradlew.bat = ..\..\Downloads\eureka-server\eureka-server\gradlew.bat
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "gradle", "gradle", "{13ADCDCE-7D14-483B-9FF6-D17F311543D5}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wrapper", "wrapper", "{D55FE05D-C819-4857-8F23-3A38EBDB9D5C}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\Downloads\eureka-server\eureka-server\gradle\wrapper\gradle-wrapper.jar = ..\..\Downloads\eureka-server\eureka-server\gradle\wrapper\gradle-wrapper.jar
-		..\..\Downloads\eureka-server\eureka-server\gradle\wrapper\gradle-wrapper.properties = ..\..\Downloads\eureka-server\eureka-server\gradle\wrapper\gradle-wrapper.properties
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "script", "script", "{68B5501E-ED2C-4F98-BB2A-504C0CA0846B}"
-	ProjectSection(SolutionItems) = preProject
-		scripts\scripts\app-build.sh = scripts\scripts\app-build.sh
-		scripts\scripts\app-down.sh = scripts\scripts\app-down.sh
-		scripts\scripts\app-logs.sh = scripts\scripts\app-logs.sh
-		scripts\scripts\app-run.sh = scripts\scripts\app-run.sh
-		scripts\scripts\app.yml = scripts\scripts\app.yml
-		scripts\scripts\build-without-tests.bat = scripts\scripts\build-without-tests.bat
-		scripts\scripts\build-without-tests.sh = scripts\scripts\build-without-tests.sh
-		scripts\scripts\build.bat = scripts\scripts\build.bat
-		scripts\scripts\build.sh = scripts\scripts\build.sh
-		scripts\scripts\infra-build.sh = scripts\scripts\infra-build.sh
-		scripts\scripts\infra-down.sh = scripts\scripts\infra-down.sh
-		scripts\scripts\infra-logs.sh = scripts\scripts\infra-logs.sh
-		scripts\scripts\infra-run.sh = scripts\scripts\infra-run.sh
-		scripts\scripts\infra.yml = scripts\scripts\infra.yml
-		scripts\scripts\rabbitmq-isolated.conf = scripts\scripts\rabbitmq-isolated.conf
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "web", "web", "{1BBB2DB3-1A14-4037-90B6-4E75BAB1CCDC}"
-	ProjectSection(SolutionItems) = preProject
-		Web\.dockerignore = Web\.dockerignore
-		Web\.env-example = Web\.env-example
-		Web\.gitignore = Web\.gitignore
-		Web\babel.config.js = Web\babel.config.js
-		Web\Dockerfile = Web\Dockerfile
-		Web\nginx.conf = Web\nginx.conf
-		Web\package-lock.json = Web\package-lock.json
-		Web\package.json = Web\package.json
-		Web\README.md = Web\README.md
-		Web\yarn.lock = Web\yarn.lock
-	EndProjectSection
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardService.Test", "DashboardService.Test\DashboardService.Test.csproj", "{14B3DFCC-667F-48CA-8821-FBCC73FDB458}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,21 +159,21 @@ Global
 		{2B089EB5-98A0-4314-96FF-3E902BC4A8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2B089EB5-98A0-4314-96FF-3E902BC4A8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2B089EB5-98A0-4314-96FF-3E902BC4A8D7}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5F6288D9-4AAB-68E2-EE64-FD75B17D7140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5F6288D9-4AAB-68E2-EE64-FD75B17D7140}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5F6288D9-4AAB-68E2-EE64-FD75B17D7140}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5F6288D9-4AAB-68E2-EE64-FD75B17D7140}.Release|Any CPU.Build.0 = Release|Any CPU
-		{78065E2D-2C4D-AB5C-A207-97721BC8EF0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{78065E2D-2C4D-AB5C-A207-97721BC8EF0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{78065E2D-2C4D-AB5C-A207-97721BC8EF0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{78065E2D-2C4D-AB5C-A207-97721BC8EF0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1118A6E2-128C-4802-830B-7046FC1AC24A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1118A6E2-128C-4802-830B-7046FC1AC24A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1118A6E2-128C-4802-830B-7046FC1AC24A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1118A6E2-128C-4802-830B-7046FC1AC24A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{57A606F2-37F2-446A-B427-ABFAD4BDB22F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57A606F2-37F2-446A-B427-ABFAD4BDB22F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57A606F2-37F2-446A-B427-ABFAD4BDB22F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57A606F2-37F2-446A-B427-ABFAD4BDB22F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B3DFCC-667F-48CA-8821-FBCC73FDB458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B3DFCC-667F-48CA-8821-FBCC73FDB458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B3DFCC-667F-48CA-8821-FBCC73FDB458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B3DFCC-667F-48CA-8821-FBCC73FDB458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{13ADCDCE-7D14-483B-9FF6-D17F311543D5} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
-		{D55FE05D-C819-4857-8F23-3A38EBDB9D5C} = {13ADCDCE-7D14-483B-9FF6-D17F311543D5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C8D20F64-DAC9-4859-B273-FEF0D1C78527}
