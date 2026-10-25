@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardService.Api", "Cla
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DashboardService.Test", "DashboardService.Test\DashboardService.Test.csproj", "{14B3DFCC-667F-48CA-8821-FBCC73FDB458}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentPortalApiGateway", "AgentPortalApiGateway\AgentPortalApiGateway.csproj", "{857A2DFC-6F93-4BFD-977D-8612F79A16B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorWasmClient", "BlazorWasmClient\BlazorWasmClient.csproj", "{EB115972-858F-4D19-9A81-C64113D459CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -171,6 +175,14 @@ Global
 		{14B3DFCC-667F-48CA-8821-FBCC73FDB458}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{14B3DFCC-667F-48CA-8821-FBCC73FDB458}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14B3DFCC-667F-48CA-8821-FBCC73FDB458}.Release|Any CPU.Build.0 = Release|Any CPU
+		{857A2DFC-6F93-4BFD-977D-8612F79A16B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{857A2DFC-6F93-4BFD-977D-8612F79A16B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{857A2DFC-6F93-4BFD-977D-8612F79A16B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{857A2DFC-6F93-4BFD-977D-8612F79A16B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB115972-858F-4D19-9A81-C64113D459CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB115972-858F-4D19-9A81-C64113D459CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB115972-858F-4D19-9A81-C64113D459CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB115972-858F-4D19-9A81-C64113D459CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

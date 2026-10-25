@@ -1,7 +1,7 @@
-﻿namespace AgentPortalApiGateway;
-
-public class Class1
+﻿namespace AgentPortalApiGateway
 {
+    public class Class1
+    {
 
+    }
 }
-sss
