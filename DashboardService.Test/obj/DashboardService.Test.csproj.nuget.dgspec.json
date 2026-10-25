@@ -116,6 +116,20 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[14.2.0, )"
+            },
+            "Ocelot.Cache.CacheManager": {
+              "target": "Package",
+              "version": "[25.0.2, )"
+            },
+            "Ocelot.Provider.Eureka": {
+              "target": "Package",
+              "version": "[25.0.0-beta.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
