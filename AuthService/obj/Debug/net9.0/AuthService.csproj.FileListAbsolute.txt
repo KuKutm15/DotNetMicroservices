@@ -1,0 +1,6 @@
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net9.0\AuthService.sourcelink.json

@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="9.0.22" />
+    <PackageReference Include="Microsoft.AspNetCore.Hosting" Version="2.3.13" />
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="11.0.0-rc.3.26522.148" />
+    <PackageReference Include="Microsoft.IdentityModel.Tokens" Version="8.23.0" />
+    <PackageReference Include="Ocelot.Cache.CacheManager" Version="25.0.2" />
+    <PackageReference Include="Ocelot.Provider.Eureka" Version="24.1.0" />
+  </ItemGroup>
+
 </Project>

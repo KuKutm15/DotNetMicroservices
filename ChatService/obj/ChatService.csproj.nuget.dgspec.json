@@ -49,6 +49,36 @@
       "frameworks": {
         "net9.0": {
           "targetAlias": "net9.0",
+          "dependencies": {
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[9.0.0-alpha.3, )"
+            },
+            "Marten.AspNetIdentity": {
+              "target": "Package",
+              "version": "[9.0.26, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[14.2.0, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[9.0.22, )"
+            },
+            "Microsoft.AspNetCore.Authorization": {
+              "target": "Package",
+              "version": "[11.0.0-rc.3.26522.148, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.3.13, )"
+            },
+            "Microsoft.AspNetCore.SignalR.Common": {
+              "target": "Package",
+              "version": "[11.0.0-rc.3.26522.148, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

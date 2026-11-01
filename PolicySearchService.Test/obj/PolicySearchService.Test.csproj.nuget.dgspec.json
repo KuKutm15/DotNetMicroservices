@@ -50,9 +50,17 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "dependencies": {
+            "EasyNetQ": {
+              "target": "Package",
+              "version": "[9.0.0-alpha.3, )"
+            },
             "MediatR": {
               "target": "Package",
               "version": "[14.2.0, )"
+            },
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[11.0.0-rc.3.26522.148, )"
             },
             "Ocelot.Cache.CacheManager": {
               "target": "Package",

@@ -1,0 +1,5 @@
+E:\KTRATHUCHANH\DotNetMicroservices\ClassLibrary1\obj\Debug\net9.0\DashboardService.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\ClassLibrary1\obj\Debug\net9.0\DashboardService.Api.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ClassLibrary1\obj\Debug\net9.0\DashboardService.Api.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\ClassLibrary1\obj\Debug\net9.0\DashboardService.Api.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ClassLibrary1\obj\Debug\net9.0\DashboardService.Api.sourcelink.json
