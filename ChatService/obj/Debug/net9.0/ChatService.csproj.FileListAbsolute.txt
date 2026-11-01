@@ -1,6 +1,0 @@
-E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net9.0\ChatService.csproj.AssemblyReference.cache
-E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net9.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig
-E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net9.0\ChatService.AssemblyInfoInputs.cache
-E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net9.0\ChatService.AssemblyInfo.cs
-E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net9.0\ChatService.csproj.CoreCompileInputs.cache
-E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net9.0\ChatService.sourcelink.json

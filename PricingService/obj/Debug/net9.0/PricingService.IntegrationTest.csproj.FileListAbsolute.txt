@@ -1,6 +1,0 @@
-E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.IntegrationTest.csproj.AssemblyReference.cache
-E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
-E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.IntegrationTest.AssemblyInfoInputs.cache
-E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.IntegrationTest.AssemblyInfo.cs
-E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.IntegrationTest.csproj.CoreCompileInputs.cache
-E:\KTRATHUCHANH\DotNetMicroservices\PricingService\obj\Debug\net9.0\PricingService.IntegrationTest.sourcelink.json

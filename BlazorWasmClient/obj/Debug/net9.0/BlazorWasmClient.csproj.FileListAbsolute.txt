@@ -1,6 +1,0 @@
-E:\KTRATHUCHANH\DotNetMicroservices\BlazorWasmClient\obj\Debug\net9.0\BlazorWasmClient.GeneratedMSBuildEditorConfig.editorconfig
-E:\KTRATHUCHANH\DotNetMicroservices\BlazorWasmClient\obj\Debug\net9.0\BlazorWasmClient.AssemblyInfoInputs.cache
-E:\KTRATHUCHANH\DotNetMicroservices\BlazorWasmClient\obj\Debug\net9.0\BlazorWasmClient.AssemblyInfo.cs
-E:\KTRATHUCHANH\DotNetMicroservices\BlazorWasmClient\obj\Debug\net9.0\BlazorWasmClient.csproj.CoreCompileInputs.cache
-E:\KTRATHUCHANH\DotNetMicroservices\BlazorWasmClient\obj\Debug\net9.0\BlazorWasmClient.sourcelink.json
-E:\KTRATHUCHANH\DotNetMicroservices\BlazorWasmClient\obj\Debug\net9.0\BlazorWasmClient.csproj.AssemblyReference.cache

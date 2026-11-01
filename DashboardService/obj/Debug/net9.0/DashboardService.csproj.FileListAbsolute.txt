@@ -1,6 +1,0 @@
-E:\KTRATHUCHANH\DotNetMicroservices\DashboardService\obj\Debug\net9.0\DashboardService.csproj.AssemblyReference.cache
-E:\KTRATHUCHANH\DotNetMicroservices\DashboardService\obj\Debug\net9.0\DashboardService.GeneratedMSBuildEditorConfig.editorconfig
-E:\KTRATHUCHANH\DotNetMicroservices\DashboardService\obj\Debug\net9.0\DashboardService.AssemblyInfoInputs.cache
-E:\KTRATHUCHANH\DotNetMicroservices\DashboardService\obj\Debug\net9.0\DashboardService.AssemblyInfo.cs
-E:\KTRATHUCHANH\DotNetMicroservices\DashboardService\obj\Debug\net9.0\DashboardService.csproj.CoreCompileInputs.cache
-E:\KTRATHUCHANH\DotNetMicroservices\DashboardService\obj\Debug\net9.0\DashboardService.sourcelink.json
