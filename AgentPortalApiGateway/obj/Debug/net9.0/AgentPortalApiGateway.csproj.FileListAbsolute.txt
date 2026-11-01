@@ -4,3 +4,10 @@ E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\Agent
 E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.AssemblyInfo.cs
 E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.csproj.CoreCompileInputs.cache
 E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\refint\AgentPortalApiGateway.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\ref\AgentPortalApiGateway.dll
