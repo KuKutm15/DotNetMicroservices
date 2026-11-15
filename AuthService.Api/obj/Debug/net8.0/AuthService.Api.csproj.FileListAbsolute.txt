@@ -1,0 +1,24 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\refint\AuthService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\ref\AuthService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\bin\Debug\net8.0\AuthService.Api.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\refint\AuthService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\AuthService.Api.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService.Api\obj\Debug\net8.0\ref\AuthService.Api.dll

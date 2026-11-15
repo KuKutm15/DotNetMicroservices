@@ -1,0 +1,71 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\appsettings.Development.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\appsettings.docker.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\appsettings.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\hosting.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\ChatService.staticwebassets.endpoints.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\ChatService.exe
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\ChatService.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\ChatService.runtimeconfig.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\ChatService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\ChatService.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\EasyNetQ.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\MediatR.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\MediatR.Contracts.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\ChatService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\PolicyService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\ChatService.Api.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\bin\Debug\net8.0\PolicyService.Api.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.csproj.AssemblyReference.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\scopedcss\bundle\ChatService.styles.css
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\staticwebassets.build.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\staticwebassets.development.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatServ.52F73ADC.Up2Date
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\refint\ChatService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.genruntimeconfig.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ChatService\obj\Debug\net8.0\ref\ChatService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.MvcApplicationPartsAssemblyInfo.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\refint\ChatService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ChatService\obj\Debug\net8.0\ChatService.pdb

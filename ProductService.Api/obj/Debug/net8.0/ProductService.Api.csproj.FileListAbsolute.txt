@@ -1,0 +1,26 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.csproj.AssemblyReference.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\refint\ProductService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ref\ProductService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\bin\Debug\net8.0\ProductService.Api.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\refint\ProductService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ProductService.Api.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\ProductService.Api\obj\Debug\net8.0\ref\ProductService.Api.dll

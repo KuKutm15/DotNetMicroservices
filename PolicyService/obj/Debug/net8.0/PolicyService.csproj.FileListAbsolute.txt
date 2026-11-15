@@ -1,0 +1,28 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\bin\Debug\net8.0\PolicyService.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\bin\Debug\net8.0\PolicyService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\bin\Debug\net8.0\PolicyService.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\refint\PolicyService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\ref\PolicyService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.csproj.AssemblyReference.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.MvcApplicationPartsAssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.MvcApplicationPartsAssemblyInfo.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.MvcApplicationPartsAssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.MvcApplicationPartsAssemblyInfo.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\refint\PolicyService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService\obj\Debug\net8.0\PolicyService.pdb

@@ -1,0 +1,100 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\appsettings.Development.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\appsettings.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\hosting.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.staticwebassets.endpoints.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.exe
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.runtimeconfig.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.csproj.AssemblyReference.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.MvcApplicationPartsAssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.MvcApplicationPartsAssemblyInfo.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\scopedcss\bundle\AuthService.styles.css
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.build.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.development.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthServ.2ED0AEC6.Up2Date
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\refint\AuthService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.genruntimeconfig.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AuthService\obj\Debug\net8.0\ref\AuthService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\appsettings.Development.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\appsettings.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\hosting.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.staticwebassets.endpoints.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.exe
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.runtimeconfig.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\AuthService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Newtonsoft.Json.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.MvcApplicationPartsAssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.MvcApplicationPartsAssemblyInfo.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\scopedcss\bundle\AuthService.styles.css
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.build.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.development.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthServ.2ED0AEC6.Up2Date
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\refint\AuthService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\AuthService.genruntimeconfig.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AuthService\obj\Debug\net8.0\ref\AuthService.dll

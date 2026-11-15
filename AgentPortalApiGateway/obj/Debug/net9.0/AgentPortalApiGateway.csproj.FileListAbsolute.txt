@@ -1,0 +1,124 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\appsettings.Development.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\appsettings.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\ocelot.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.staticwebassets.endpoints.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.exe
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.runtimeconfig.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\CacheManager.Core.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\CacheManager.Microsoft.Extensions.Configuration.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\CacheManager.Microsoft.Extensions.Logging.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\FluentValidation.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.Extensions.DiagnosticAdapter.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Ocelot.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Ocelot.Cache.CacheManager.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Ocelot.Provider.Eureka.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Pivotal.Discovery.ClientCore.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Pivotal.Discovery.EurekaBase.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Steeltoe.CloudFoundry.ConnectorBase.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Steeltoe.Common.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Steeltoe.Common.Http.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Steeltoe.Discovery.EurekaBase.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.csproj.AssemblyReference.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.MvcApplicationPartsAssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.MvcApplicationPartsAssemblyInfo.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\scopedcss\bundle\AgentPortalApiGateway.styles.css
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\staticwebassets.build.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\staticwebassets.development.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPor.9AF40789.Up2Date
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\refint\AgentPortalApiGateway.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.genruntimeconfig.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\ref\AgentPortalApiGateway.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\appsettings.Development.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\appsettings.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\ocelot.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.staticwebassets.endpoints.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.exe
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.runtimeconfig.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\AgentPortalApiGateway.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\CacheManager.Core.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\CacheManager.Microsoft.Extensions.Configuration.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\CacheManager.Microsoft.Extensions.Logging.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\FluentValidation.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.MiddlewareAnalysis.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.CodeAnalysis.Razor.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Microsoft.Extensions.DiagnosticAdapter.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Newtonsoft.Json.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Ocelot.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Ocelot.Cache.CacheManager.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Ocelot.Provider.Eureka.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Pivotal.Discovery.ClientCore.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Pivotal.Discovery.EurekaBase.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Steeltoe.CloudFoundry.ConnectorBase.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Steeltoe.Common.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Steeltoe.Common.Http.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Steeltoe.Discovery.EurekaBase.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\Steeltoe.Extensions.Configuration.CloudFoundryBase.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\bin\Debug\net9.0\System.Security.Permissions.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.MvcApplicationPartsAssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.MvcApplicationPartsAssemblyInfo.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\rjimswa.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\scopedcss\bundle\AgentPortalApiGateway.styles.css
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\staticwebassets.build.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\staticwebassets.build.json.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\staticwebassets.development.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPor.9AF40789.Up2Date
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\refint\AgentPortalApiGateway.dll
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\AgentPortalApiGateway.genruntimeconfig.cache
+E:\KTRATHUCHANH\DotNetMicroservices\AgentPortalApiGateway\obj\Debug\net9.0\ref\AgentPortalApiGateway.dll

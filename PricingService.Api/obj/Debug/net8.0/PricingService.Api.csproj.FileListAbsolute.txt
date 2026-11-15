@@ -1,0 +1,26 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.AssemblyReference.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\refint\PricingService.Api.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\ref\PricingService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\bin\Debug\net8.0\PricingService.Api.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\refint\PricingService.Api.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\PricingService.Api.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.Api\obj\Debug\net8.0\ref\PricingService.Api.dll

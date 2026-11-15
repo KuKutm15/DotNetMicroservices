@@ -1,0 +1,24 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\bin\Debug\net8.0\DocumentsService.Test.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\bin\Debug\net8.0\DocumentsService.Test.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\bin\Debug\net8.0\DocumentsService.Test.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\refint\DocumentsService.Test.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\ref\DocumentsService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\bin\Debug\net8.0\DocumentsService.Test.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\bin\Debug\net8.0\DocumentsService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\bin\Debug\net8.0\DocumentsService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\refint\DocumentsService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService.Test\obj\Debug\net8.0\ref\DocumentsService.Test.dll

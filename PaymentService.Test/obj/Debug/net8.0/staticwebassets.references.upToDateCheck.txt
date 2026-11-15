@@ -1,0 +1,2 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PaymentService\obj\Debug\net8.0\staticwebassets.build.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PaymentService\obj\Debug\net8.0\staticwebassets.build.json

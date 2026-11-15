@@ -1,0 +1,24 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\bin\Debug\net8.0\PolicyService.Test.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\bin\Debug\net8.0\PolicyService.Test.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\bin\Debug\net8.0\PolicyService.Test.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\refint\PolicyService.Test.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\ref\PolicyService.Test.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\bin\Debug\net8.0\.msCoverageSourceRootsMapping_PolicyService.Test
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\bin\Debug\net8.0\.msCoverageSourceRootsMapping_PolicyService.Test
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\refint\PolicyService.Test.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicyService.Test\obj\Debug\net8.0\PolicyService.Test.pdb

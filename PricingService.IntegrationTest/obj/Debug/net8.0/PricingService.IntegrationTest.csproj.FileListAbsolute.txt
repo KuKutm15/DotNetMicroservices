@@ -1,0 +1,22 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\bin\Debug\net8.0\.msCoverageSourceRootsMapping_PricingService.IntegrationTest
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.csproj.AssemblyReference.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\MvcTestingAppManifest.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.MvcApplicationPartsAssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.MvcApplicationPartsAssemblyInfo.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\bin\Debug\net8.0\.msCoverageSourceRootsMapping_PricingService.IntegrationTest
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\MvcTestingAppManifest.json
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.MvcApplicationPartsAssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.MvcApplicationPartsAssemblyInfo.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PricingService.IntegrationTest\obj\Debug\net8.0\PricingService.IntegrationTest.sourcelink.json

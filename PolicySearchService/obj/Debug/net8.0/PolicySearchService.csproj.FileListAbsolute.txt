@@ -1,0 +1,28 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\bin\Debug\net8.0\PolicySearchService.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\refint\PolicySearchService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\ref\PolicySearchService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.csproj.AssemblyReference.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.MvcApplicationPartsAssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.MvcApplicationPartsAssemblyInfo.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.csproj.AssemblyReference.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.MvcApplicationPartsAssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.MvcApplicationPartsAssemblyInfo.cache
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\refint\PolicySearchService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\PolicySearchService\obj\Debug\net8.0\PolicySearchService.pdb

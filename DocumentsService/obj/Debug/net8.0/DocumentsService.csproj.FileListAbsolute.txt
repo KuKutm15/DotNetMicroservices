@@ -1,0 +1,24 @@
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\bin\Debug\net8.0\DocumentsService.deps.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\bin\Debug\net8.0\DocumentsService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\bin\Debug\net8.0\DocumentsService.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.GeneratedMSBuildEditorConfig.editorconfig
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.AssemblyInfoInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.AssemblyInfo.cs
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.csproj.CoreCompileInputs.cache
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.sourcelink.json
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\refint\DocumentsService.dll
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.pdb
+C:\THUC HANH LAP TRINH WEB\THTKPTPM\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\ref\DocumentsService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\bin\Debug\net8.0\DocumentsService.deps.json
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\bin\Debug\net8.0\DocumentsService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\bin\Debug\net8.0\DocumentsService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.GeneratedMSBuildEditorConfig.editorconfig
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.AssemblyInfoInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.AssemblyInfo.cs
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.csproj.CoreCompileInputs.cache
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.sourcelink.json
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\refint\DocumentsService.dll
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\DocumentsService.pdb
+E:\KTRATHUCHANH\DotNetMicroservices\DocumentsService\obj\Debug\net8.0\ref\DocumentsService.dll
