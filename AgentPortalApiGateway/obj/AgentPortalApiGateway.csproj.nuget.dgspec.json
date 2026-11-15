@@ -52,15 +52,15 @@
           "dependencies": {
             "Ocelot": {
               "target": "Package",
-              "version": "[12.0.1, )"
+              "version": "[24.1.0, )"
             },
             "Ocelot.Cache.CacheManager": {
               "target": "Package",
-              "version": "[0.1.0, )"
+              "version": "[24.1.0, )"
             },
             "Ocelot.Provider.Eureka": {
               "target": "Package",
-              "version": "[0.1.2, )"
+              "version": "[24.1.0, )"
             }
           },
           "imports": [
